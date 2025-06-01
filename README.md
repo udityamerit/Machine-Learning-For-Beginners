@@ -91,12 +91,13 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📩 Contact  
+## 📬 Contact
 
-For any queries or feedback, feel free to connect with me:  
-- LinkedIn: [Uditya Narayan Tiwari](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)  
-- GitHub: [udityamerit](https://github.com/udityamerit)  
-
+**Uditya Narayan Tiwari**
+B.Tech CSE (AI & ML) | VIT Bhopal University
+🔗 [Portfolio Website](https://udityanarayantiwari.netlify.app)
+💼 [LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+📁 [GitHub](https://github.com/udityamerit)
 ---
 
 ## 🌟 Support  
